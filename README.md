@@ -4,8 +4,8 @@
 Proyek ini bertujuan untuk menghitung Customer Lifetime Value (CLV) menggunakan data transaksi pelanggan. Analisis ini membantu memahami nilai pelanggan jangka panjang untuk pengambilan keputusan strategis.
 
 **Fitur Utama**
-•	Eksplorasi Data: Analisis awal data pelanggan.
-•	Pemrosesan Data: Penyiapan data untuk model CLV.
+>•	Eksplorasi Data: Analisis awal data pelanggan.
+>•	Pemrosesan Data: Penyiapan data untuk model CLV.
 •	Modeling CLV: Implementasi algoritma untuk prediksi CLV.
 •	Visualisasi: Grafis yang memberikan wawasan bisnis.
 
