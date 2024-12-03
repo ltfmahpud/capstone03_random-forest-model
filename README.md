@@ -6,12 +6,12 @@ Proyek ini bertujuan untuk menghitung Customer Lifetime Value (CLV) menggunakan 
 **Fitur Utama**
 * Eksplorasi Data: Analisis awal data pelanggan.
 * Pemrosesan Data: Penyiapan data untuk model CLV.
-•	Modeling CLV: Implementasi algoritma untuk prediksi CLV.
-•	Visualisasi: Grafis yang memberikan wawasan bisnis.
+* Modeling CLV: Implementasi algoritma untuk prediksi CLV.
+* Visualisasi: Grafis yang memberikan wawasan bisnis.
 
 **Persyaratan**
-•	Python 3.7+
-•	Library: pandas, numpy, matplotlib, seaborn, sklearn
+*	Python 3.7+
+*	Library: pandas, numpy, matplotlib, seaborn, sklearn
 
 **Cara Penggunaan**
 1.	Unduh atau klon repositori ini.
@@ -19,8 +19,8 @@ Proyek ini bertujuan untuk menghitung Customer Lifetime Value (CLV) menggunakan 
 3.	Ikuti langkah-langkah pada setiap sel untuk hasil analisis.
 
 **Struktur Notebook**
-•	Pendahuluan: Gambaran umum proyek dan data.
-•	Eksplorasi Data: Statistik deskriptif dan visualisasi awal.
-•	Pemrosesan Data: Pembersihan dan transformasi data.
-•	Modeling: Pembuatan model CLV dan evaluasi hasil.
-•	Kesimpulan: Ringkasan dan rekomendasi bisnis.
+*	Pendahuluan: Gambaran umum proyek dan data.
+*	Eksplorasi Data: Statistik deskriptif dan visualisasi awal.
+*	Pemrosesan Data: Pembersihan dan transformasi data.
+*	Modeling: Pembuatan model CLV dan evaluasi hasil.
+*	Kesimpulan: Ringkasan dan rekomendasi bisnis.
